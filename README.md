@@ -6,8 +6,6 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 
 Check out the live version here: [View Portfolio](https://farhanp-portfolio.netlify.app)
 
-> Replace the link above with your actual deployed URL (e.g., GitHub Pages, Netlify, Vercel).
-
 ## 🛠️ Built With
 
 - **HTML** – Structure and content
